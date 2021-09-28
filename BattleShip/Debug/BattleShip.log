@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Курсова.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Battle.cpp
+  Menu.cpp
+  Pc.cpp
+  Ship.cpp
+  You.cpp
+  BattleShip.cpp
+C:\Users\hp\Downloads\Курсова\Курсова\BattleShip.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Курсова.vcxproj -> C:\Users\hp\Downloads\Курсова\Debug\BattleShip.exe
